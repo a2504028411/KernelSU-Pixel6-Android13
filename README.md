@@ -1,5 +1,5 @@
 # KernelSU-Pixel6-Android13
 
 
-BuildVersion
+Android Build Number
 TQ1A.230105.002
